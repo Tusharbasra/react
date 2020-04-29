@@ -1,0 +1,138 @@
+[                   
+    {
+        "id": 1,
+        "brand": "apple",
+        "latest": true,
+        "name": "iphone 11 pro",
+        "imgUrl": "https://images-na.ssl-images-amazon.com/images/I/81mxun%2B6pEL._AC_SL1500_.jpg",
+        "color": "black",
+        "description": "The iPhone 11 Pro Max features Triple 12 MP Ultra Wide (13mm), Wide (26mm) and Telephoto (52mm) cameras. The Ultra wide camera provides 120° field of view, letting you capture four times more scene, and the wide camera provides 100% Focus Pixels and Optical image stabilisation and the telephoto camera comes with an f/2.0 aperture and 2x optical zoom.",
+        "specs": {
+            "boxContent": "Handset, EarPods with Lightning Connector, USB-C to Lightning Cable, 18W USB-C Power Adapter, Documentation",
+            "color": "black",
+            "simType": "dual"
+        },
+        "price": "₹100000"
+    },
+    {
+        "id": 2,
+        "brand": "apple",
+        "latest": false,
+        "name": "iphone 11",
+        "imgUrl": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone11-black-select-2019?wid=940&hei=1112&fmt=png-alpha&qlt=80&.v=1566956144418",
+        "color": "black",
+        "description": "The iPhone 11 features dual 12 MP Ultra Wide (13mm) and Wide (26mm) cameras with 4K video recording up to 60 fps. The Ultra Wide camera provides 120° field of view, letting you capture four times more scene, and the Wide camera provides 100% Focus Pixels for up to three times faster autofocus in low light.",
+        "specs": {
+            "boxContent": "Handset, EarPods with Lightning Connector, USB-C to Lightning Cable, 18W USB-C Power Adapter, Documentation",
+            "color": "black",
+            "simType": "dual"
+        },
+        "price": "₹70000"
+    },
+    {
+        "id": 3,
+        "brand": "apple",
+        "latest": false,
+        "name": "iphone Xs",
+        "imgUrl": "https://img.gkbcdn.com/s3/p/2019-11-22/apple-iphone-x-64gb-gray--used--20191122085301167.jpg",
+        "color": "black",
+        "description": "The iPhone Xs is in tune with beloved versions of previous Apple mobile phones in the sense that it is built in privacy and security from the very beginning. Every detail, from its sleek design to the innovative ways its components are recycled, goes into setting this addition to iPhones apart from the crowd. One of the most noticeable attractions of the iPhone Xs is its indulgent 14.73 cm (5.8) Super Retina Display. Sleek in appearance and constructed to be sturdy, this iPhone delivers in terms of aesthetics and durability. It is even resistant to liquid spills and dust. The A12 Bionic Chip which powers this Apple phone transforms the way you look at pictures, the way you game, or even the way you browse the internet on your phone with its fluid performance. Explore different ways to capture the world around you with the iPhone Xs’ 12 MP dual-rear camera system and its 7 MP selfie camera.",
+        "specs": {
+            "boxContent": "Handset, EarPods with Lightning Connector, USB-C to Lightning Cable, 18W USB-C Power Adapter, Documentation",
+            "color": "black",
+            "simType": "dual"
+        },
+        "price": "₹60000"
+    },
+    {
+        "id": 4,
+        "latest": true,
+        "brand": "samsung",
+        "name": "Samsung Galaxy S20 Ultra",
+        "imgUrl": "https://cdn.shortpixel.ai/client/q_glossy,ret_img/https://samsungmobilespecs.com/wp-content/uploads/2020/01/Samsung-Galaxy-S20-Ultra-1-600x600.jpg",
+        "color": "black",
+        "description": "With the 10x Hybrid Optic Zoom, enabled by a revolutionary folded lens, a high-resolution image sensor, and Super Resolution Zoom enhanced by camera AI, you can now get close to the action and click shots that you couldn’t even find before.",
+        "specs": {
+            "boxContent": "Handset (Non-removable Battery Included), Earphone, Travel Adapter, USB Cable, User Manual",
+            "color": "black",
+            "simType": "dual"
+        },
+        "price": "₹950000"
+    },
+    {
+        "id": 5,
+        "brand": "samsung",
+        "latest": false,
+        "name": "Samsung Galaxy S20",
+        "imgUrl": "https://cdn-files.kimovil.com/default/0004/23/thumb_322988_default_big.jpeg",
+        "color": "black",
+        "description": "Thanks to the large image sensor, you can now click crisp and bright low-light photos which appear even brighter in Night Mode. It also lets you capture multiple shots at once and merge them into a single picture with less blur and noise.",
+        "specs": {
+            "boxContent": "Handset, EarPods with Lightning Connector, USB-C to Lightning Cable, 18W USB-C Power Adapter, Documentation",
+            "color": "black",
+            "simType": "dual"
+        },
+        "price": "₹70000"
+    },
+    {
+        "id": 6,
+        "brand": "samsung",
+        "latest": false,
+        "name": "Samsung Galaxy Note 10",
+        "imgUrl": "https://www.mytrendyphone.eu/images/Samsung-Galaxy-Note10-Duos-256GB-Aura-Black-8806090026430-12082019-01-p.jpg",
+        "color": "black",
+        "description": "The Galaxy Note 10 is designed to give you the mobile experience of a computer, a gaming console, a movie-tech camera, and an intelligent pen - all in one device. Powered by a 7nm processor, 8 GB of RAM, 256 GB of internal storage capacity and a 2.0 Gbps LTE connection, the Note 10 lets you download files, live-game, and stream content seamlessly.",
+        "specs": {
+            "boxContent": "Handset, EarPods with Lightning Connector, USB-C to Lightning Cable, 18W USB-C Power Adapter, Documentation",
+            "color": "black",
+            "simType": "dual"
+        },
+        "price": "₹65000"
+    },
+    {
+        "id": 7,
+        "brand": "redmi",
+        "latest": true,
+        "name": "Redmi Note 9 Pro Max",
+        "imgUrl": "https://i01.appmifile.com/webfile/globalimg/in/cms/852D3B1A-4511-EA95-7918-A7FAAAF29DE0.jpg",
+        "color": "blue",
+        "description": "The true beast of performance.The Redmi Note 9 Pro max offers a truly beast performance in every department. This smartphone features an impressive 48MP Quad Camera Array that combines a powerful 48MP primary sensor, 8MP ultra-wide angle lens, a 5MP macro lens and a 2MP macro lens, so you are ready to click in any condition. Powered by the Qualcomm® Snapdragon™ 720G, gaming is effortless and efficient. Work and play uninterrupted with the huge 5020mAh battery that is accompanied by the 18W Fast Charger.",
+        "specs": {
+            "boxContent": "Handset, USB-C to Lightning Cable, 18W USB-C Power Adapter, Documentation, silicon case",
+            "color": "blue",
+            "simType": "dual"
+        },
+        "price": "₹17000"
+    },
+    {
+        "id": 8,
+        "brand": "redmi",
+        "latest": false,
+        "name": "Redmi Note 9 Pro",
+        "imgUrl": "https://i01.appmifile.com/webfile/globalimg/in/cms/852D3B1A-4511-EA95-7918-A7FAAAF29DE0.jpg",
+        "color": "blue",
+        "description": "The true beast of performance.The Redmi Note 9 Pro offers a truly beast performance in every department. This smartphone features an impressive 48MP Quad Camera Array that combines a powerful 48MP primary sensor, 8MP ultra-wide angle lens, a 5MP macro lens and a 2MP macro lens, so you are ready to click in any condition. Powered by the Qualcomm® Snapdragon™ 720G, gaming is effortless and efficient. Work and play uninterrupted with the huge 5020mAh battery that is accompanied by the 18W Fast Charger.",
+        "specs": {
+            "boxContent": "Handset, USB-C to Lightning Cable, 18W USB-C Power Adapter, Documentation, silicon case",
+            "color": "blue",
+            "simType": "dual"
+        },
+        "price": "₹14000"
+    },
+    {
+        "id": 9,
+        "brand": "redmi",
+        "latest": false,
+        "name": "Redmi Note 8 Pro",
+        "imgUrl": "https://i01.appmifile.com/webfile/globalimg/in/cms/58F356D1-538B-E4C7-0D9E-5266A9306F8E.jpg",
+        "color": "blue",
+        "description": "The true beast of performance.The Redmi Note 8 Pro offers a truly beast performance in every department. This smartphone features an impressive 48MP Quad Camera Array that combines a powerful 48MP primary sensor, 8MP ultra-wide angle lens, a 5MP macro lens and a 2MP macro lens, so you are ready to click in any condition. Powered by the Qualcomm® Snapdragon™ 720G, gaming is effortless and efficient. Work and play uninterrupted with the huge 5020mAh battery that is accompanied by the 18W Fast Charger.",
+        "specs": {
+            "boxContent": "Handset, USB-C to Lightning Cable, 18W USB-C Power Adapter, Documentation, silicon case",
+            "color": "blue",
+            "simType": "dual"
+        },
+        "price": "₹14000"
+    }
+                
+]

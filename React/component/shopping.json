@@ -1,0 +1,409 @@
+[
+    {
+        "id":13,
+        "gender":"men",
+        "category":"topwear",
+        "type": "t-shirt",
+        "brand":"roadster",
+        "price":"₹599",
+        "color":"green",
+        "name":"Men Olive Green Solid Round Neck T-shirt",
+        "imgUrl":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/10941304/2020/3/9/bdfc1095-51ab-4ee1-835a-90e8299ff7751583748616633-Roadster-Men-Tshirts-8681583748613987-1.jpg",
+        "size":"medium",
+        "specifications":{
+            "fabric":"cotton",
+            "length":"regular",
+            "pattern":"solid",
+            "occasion":"casual"
+        },
+        "description":"Olive green solid T-shirt, has a round neck and long sleeves. It is 100% cotton and machine wash. "
+    },
+
+    {
+        "id":14,
+        "gender":"men",
+        "category":"topwear",
+        "type": "t-shirt",
+        "brand":"WROGN",
+        "price":"₹1199",
+        "color":"Blue&Green",
+        "name":"Men Blue & Green Colourblocked Polo T-shirt",
+        "imgUrl":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/2339655/2018/4/20/11524208739198-WROGN-Men-Blue-Colourblocked-Polo-Collar-T-shirt-3091524208739069-1.jpg",
+        "size":"medium",
+        "specifications":{
+            "fabric":"cotton",
+            "length":"regular",
+            "pattern":"colourblocked",
+            "occasion":"casual"
+        },
+        "description":"Blue and green colourblocked T-shirt, has a polo collar, short sleeves. It is 100% cotton and machine wash. "
+    },
+
+    {
+        "id":15,
+        "gender":"men",
+        "category":"topwear",
+        "type": "t-shirt",
+        "brand":"Levis",
+        "price":"₹1169",
+        "color":"Blue Printed",
+        "name":"Men Blue Printed Round Neck T-shirt",
+        "imgUrl":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/11165738/2020/2/20/6cd305fb-977c-490e-b370-75c942dc42a11582203508716-Levis-Men-Tshirts-3261582203507049-1.jpg",
+        "size":"medium",
+        "specifications":{
+            "fabric":"cotton",
+            "length":"regular",
+            "pattern":"printed",
+            "occasion":"casual"
+        },
+        "description":"Blue printed T-shirt, has a round neck, and short sleeves. It is 100% cotton and machine wash. "
+    },
+    
+    {
+        "id":16,
+        "gender":"men",
+        "category":"topwear",
+        "type": "t-shirt",
+        "brand":"H&M",
+        "price":"₹399",
+        "color":"Blue Solid",
+        "name":"Men Blue Solid Cotton T-shirt Regular Fit",
+        "imgUrl":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2020/2/7/0ddf490a-4be0-422d-b904-420a56647f831581025130180-1.jpg",
+        "size":"medium",
+        "specifications":{
+            "fabric":"cotton",
+            "length":"regular",
+            "pattern":"solid",
+            "occasion":"casual"
+        },
+        "description":"Blue printed T-shirt, has a round neck, and short sleeves. It is 60% cotton, 40% polyster and machine wash. "
+    },
+
+    {
+        "id":17,
+        "gender":"men",
+        "category":"topwear",
+        "type": "Jacket",
+        "brand":"DILLINGER",
+        "price":"₹899",
+        "color":"Maroon Solid",
+        "name":"Men Maroon Solid Bomber Jacket",
+        "imgUrl":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/10986124/2019/11/27/6250b59b-fbf4-421e-9b36-e0200e3c3a4b1574857500113-DILLINGER-Men-Sweatshirts-4431574857498487-1.jpg",
+        "size":"medium",
+        "specifications":{
+            "fabric":"cotton",
+            "length":"regular",
+            "pattern":"solid",
+            "occasion":"casual"
+        },
+        "description":"Maroon solid bomber jacket, has a stand collar, two pockets, long sleeves, zip closure, ribbed hem. It is 100% cotton and machine wash. "
+    },
+    
+    {
+        "id":18,
+        "gender":"men",
+        "category":"topwear",
+        "type": "Jacket",
+        "brand":"FORCA",
+        "price":"₹2999",
+        "color":"Grey Printed",
+        "name":"Men Grey Printed Tailored Jacket",
+        "imgUrl":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/11791964/2020/4/9/e41dc687-1390-4289-a52a-ab3f7364ec791586417883706ForcaMenMulticolouredPrintedTailoredJacket1.jpg",
+        "size":"medium",
+        "specifications":{
+            "fabric":"cotton",
+            "length":"long sleeves",
+            "pattern":"printed",
+            "occasion":"casual"
+        },
+        "description":"Grey printed jacket, has a spread collar, 4 pockets, button closure, long sleeves, straight hem, and unlined lining. It is 100% cotton and machine wash. "
+    },
+
+    {
+        "id":19,
+        "gender":"men",
+        "category":"bottomwear",
+        "type": "Jeans",
+        "brand":"Here&Now",
+        "price":"₹1214",
+        "color":"Blue",
+        "name":"Men Blue Slim Fit Mid-Rise Highly Distressed Stretchable Jeans",
+        "imgUrl":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/10895686/2020/2/5/b50563c4-1e75-40e6-a3df-f7060b8dabdf1580893473847-HERENOW-Men-Jeans-4151580893471304-1.jpg",
+        "size":"32",
+        "specifications":{
+            "fabric":"cotton",
+            "length":"regular",
+            "pattern":"light fade",
+            "occasion":"casual"
+        },
+        "description":"Blue medium wash 5-pocket mid-rise jeans, highly distressed, light fade, has a button and zip closure, and waistband with belt loops "
+    },
+
+    {
+        "id":20,
+        "gender":"men",
+        "category":"bottomwear",
+        "type": "Jeans",
+        "brand":"Roadster",
+        "price":"₹1049",
+        "color":"Navy Blue",
+        "name":"Men Navy Blue Skinny Fit Mid-Rise Clean Look Stretchable Jeans",
+        "imgUrl":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/5669835/2018/6/12/fe5aa3f1-2e78-4a64-b465-372640475a681528807456962-Roadster-Men-Navy-Blue-Skinny-Fit-Mid-Rise-Clean-Look-Stretchable-Jeans-4841528807456704-1.jpg",
+        "size":"36",
+        "specifications":{
+            "fabric":"cotton",
+            "length":"regular",
+            "pattern":"light fade",
+            "occasion":"casual"
+        },
+        "description":"Navy Blue dark wash 5-pocket mid-rise jeans, clean look with light fade, has a button and zip closure, waistband with belt loops"
+    },
+
+    {
+        "id":21,
+        "gender":"men",
+        "category":"bottomwear",
+        "type": "Casual Trouser",
+        "brand":"Calvin Klein Jeans",
+        "price":"₹6799",
+        "color":"Navy Blue",
+        "name":"Men Navy Blue Skinny Fit Mid-Rise Clean Look Stretchable Jeans",
+        "imgUrl":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/10714800/2020/1/22/82b4cd04-c179-4848-9173-4e2f69be953b1579676972652-Calvin-Klein-Jeans-Men-Trousers-3091579676970618-2.jpg",
+        "size":"36",
+        "specifications":{
+            "fabric":"cotton",
+            "length":"regular",
+            "pattern":"light fade",
+            "occasion":"casual"
+        },
+        "description":"Khaki solid mid-rise trousers, button closure, and 5 pockets"
+    },
+
+    {
+        "id":22,
+        "gender":"men",
+        "category":"bottomwear",
+        "type": "Formal Trouser",
+        "brand":"INVICTUS",
+        "price":"₹6799",
+        "color":"Navy Blue",
+        "name":"Men Black Slim Fit Checked Formal Trousers",
+        "imgUrl":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/7029463/2018/10/3/555d46ce-6003-45ea-ab46-e3bc725b0f701538570418880-INVICTUS-Men-Black-Slim-Fit-Checked-Formal-Trousers-44153857-1.jpg",
+        "size":"36",
+        "specifications":{
+            "fabric":"Polyster and Viscous rayon",
+            "length":"regular",
+            "pattern":"Checked",
+            "occasion":"Formal"
+        },
+        "description":"Black checked mid-rise formal trousers, has a button closure, four pockets"
+    },
+
+    {
+        "id":23,
+        "gender":"women",
+        "category":"Indian & Fusion Wear",
+        "type": "Ethnic Dresses",
+        "brand":"Vishudh",
+        "price":"₹1074",
+        "color":"Purple Printed",
+        "name":"Women Purple Printed Maxi Dress",
+        "imgUrl":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2019/2/18/405e7de3-d8b9-42aa-99f3-1a7da093220f1550506908365-3.jpg",
+        "size":"medium",
+        "specifications":{
+            "fabric":"cotton",
+            "length":"maxi",
+            "pattern":"printed",
+            "occasion":"ethnic"
+        },
+        "description":"Purple printed woven maxi dress, has a round neck, short sleeves, flared hem"
+    },
+
+    {
+        "id":24,
+        "gender":"women",
+        "category":"Indian & Fusion Wear",
+        "type": "Ethnic Dresses",
+        "brand":"Nayo",
+        "price":"₹587",
+        "color":"Grey&Black",
+        "name":"Women Grey & Black Colourblocked Maxi Dress",
+        "imgUrl":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/7723402/2018/11/12/8b5e3c9b-f8dc-41c9-869f-915af52190241542014521834-Nayo-Women-Dresses-9861542014521723-1.jpg",
+        "size":"medium",
+        "specifications":{
+            "fabric":"cotton",
+            "length":"maxi",
+            "pattern":"colourblocked",
+            "occasion":"ethnic"
+        },
+        "description":"Grey and black colourblocked woven maxi dress, has a round neck, three-quarter sleeves, flared hem"
+    },
+
+    {
+        "id":25,
+        "gender":"women",
+        "category":"Indian & Fusion Wear",
+        "type": "Ethnic Dresses",
+        "brand":"Vishudh",
+        "price":"₹709",
+        "color":"Grey&Black",
+        "name":"Women Navy Blue Printed Fit and Flare Dress",
+        "imgUrl":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/7009991/2019/3/7/82bc7602-3397-4dfc-82a0-a1391bc444be1551957821317-Vishudh-Women-Navy-Blue-Printed-Fit-and-Flare-Dress-27815519-1.jpg",
+        "size":"medium",
+        "specifications":{
+            "fabric":"cotton",
+            "length":"maxi",
+            "pattern":"abstract",
+            "occasion":"ethnic"
+        },
+        "description":"Navy Blue and multicoloured printed woven fit and flare dress, has a mandarin collar, three-quarter sleeves, button closure,, flared hem"
+    },
+
+    {
+        "id":26,
+        "gender":"women",
+        "category":"Indian & Fusion Wear",
+        "type": "Skirts",
+        "brand":"Taavi",
+        "price":"₹1329",
+        "color":"Black and Maroon",
+        "name":"Women Black & Maroon Kalamkari Hand Block Print Ethnic Maxi Skirt with Gathers",
+        "imgUrl":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/7393506/2019/11/29/07869236-b3b5-40e5-9947-65b965d2ed511575023695325-Taavi-Women-Black--Maroon-Kalamkari-Hand-Block-Print-Ethnic--1.jpg",
+        "size":"medium",
+        "specifications":{
+            "fabric":"cotton",
+            "length":"maxi",
+            "pattern":"floral",
+            "occasion":"ethnic"
+        },
+        "description":"Black and maroon A-line hand block print ethnic maxi skirt Partially elasticated waistband Single side slitgathers and pleated detail Flared hemKalamkari Hand Block Print"
+    },
+
+    {
+        "id":27,
+        "gender":"women",
+        "category":"Indian & Fusion Wear",
+        "type": "Skirts",
+        "brand":"Jaipur Kurti",
+        "price":"₹831",
+        "color":"white",
+        "name":"Women White Hem Design Flared Palazzos with Embroidered Detailings",
+        "imgUrl":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/11394272/2020/2/20/3d45946d-2a03-4519-a105-681f364c395b1582196420466-Jaipur-Kurti-Womens-White-Solid-Cotton-palazzo-8115821964180-1.jpg",
+        "size":"medium",
+        "specifications":{
+            "fabric":"cotton",
+            "length":"maxi",
+            "pattern":"hem design",
+            "occasion":"ethnic"
+        },
+        "description":"A pair of White hem design woven flared fit Palazzos, sheer with half lining, 2 pockets, and slip-on closure"
+    },
+
+    {
+        "id":28,
+        "gender":"women",
+        "category":"Western Wear",
+        "type": "Dresses & Jumpsuits",
+        "brand":"U&F",
+        "price":"₹594",
+        "color":"Maroon & Olive Green",
+        "name":"Maroon & Olive Green Floral Print Maxi Shirt Dress",
+        "imgUrl":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/11099538/2019/12/16/de5a1e02-d817-40f3-8db9-695befc46c2f1576473716354-UF-Women-Maroon-Printed-Maxi-Dress-7821576473714711-1.jpg",
+        "size":"medium",
+        "specifications":{
+            "fabric":"Polyester",
+            "length":"maxi",
+            "pattern":"hem design",
+            "occasion":"casual"
+        },
+        "description":"Maroon and olive green printed woven maxi dress, has a shirt collar, short sleeves, button closure and flared hem"
+    },
+
+    {
+        "id":29,
+        "gender":"women",
+        "category":"Western Wear",
+        "type": "Dresses & Jumpsuits",
+        "brand":"U&F",
+        "price":"₹594",
+        "color":"Maroon & Olive Green",
+        "name":"Maroon & Olive Green Floral Print Maxi Shirt Dress",
+        "imgUrl":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/11099538/2019/12/16/de5a1e02-d817-40f3-8db9-695befc46c2f1576473716354-UF-Women-Maroon-Printed-Maxi-Dress-7821576473714711-1.jpg",
+        "size":"medium",
+        "specifications":{
+            "fabric":"Polyester",
+            "length":"maxi",
+            "pattern":"hem design",
+            "occasion":"casual"
+        },
+        "description":"Maroon and olive green printed woven maxi dress, has a shirt collar, short sleeves, button closure and flared hem"
+    },
+
+    {
+        "id":30,
+        "gender":"women",
+        "category":"Western Wear",
+        "type": "Dresses & Jumpsuits",
+        "brand":"Kazo",
+        "price":"₹2990",
+        "color":"Green solid",
+        "name":"Women Green Solid Basic Jumpsuit",
+        "imgUrl":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2020/2/28/fec39618-4a39-44c1-8ad7-b3f9c7e510451582843669902-1.jpg",
+        "size":"medium",
+        "specifications":{
+            "fabric":"Polyester",
+            "length":"maxi",
+            "pattern":"solid",
+            "occasion":"casual"
+        },
+        "description":"Green solid basic jumpsuit, has a round neck, sleeveless"
+    },
+
+    {
+        "id":31,
+        "gender":"women",
+        "category":"Western Wear",
+        "type": "Tops & T-shirts",
+        "brand":"Ives",
+        "price":"₹549",
+        "color":"Olive green",
+        "name":"Women Olive Green Solid Shirt Style Top",
+        "imgUrl":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/8375271/2019/1/7/582995a9-d9c8-4129-8538-bf6492edc0191546853353174-Ives-Women-Olive-Green-Solid-Shirt-Style-Top-342154685335233-1.jpg",
+        "size":"medium",
+        "specifications":{
+            "fabric":"Polyester",
+            "length":"maxi",
+            "pattern":"solid",
+            "occasion":"casual"
+        },
+        "description":"Olive Green solid woven shirt style top with ruffles detail, has a mandarin collar, three-quarter sleeves, button closure"
+    },
+
+    {
+        "id":32,
+        "gender":"women",
+        "category":"Western Wear",
+        "type": "Tops & T-shirts",
+        "brand":"Harpa",
+        "price":"₹479",
+        "color":"Dusty Pink Solid",
+        "name":"Women Dusty Pink Solid Shirt Style Top",
+        "imgUrl":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/8485301/2019/1/31/94178890-ec15-46be-902d-a1c37dc672e21548924608267-Harpa-Women-Tops-2381548924606648-1.jpg",
+        "size":"medium",
+        "specifications":{
+            "fabric":"Polyester",
+            "length":"maxi",
+            "pattern":"solid",
+            "occasion":"casual"
+        },
+        "description":"Dusty pink solid  woven shirt style top, has a mandarin collar, three-quarter sleeves, button closure, two flap pockets"
+    }
+
+
+    
+
+      
+        
+
+    
+]

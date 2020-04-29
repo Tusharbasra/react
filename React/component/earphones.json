@@ -1,0 +1,124 @@
+[
+    {
+        "id":"51",
+        "category":"Electronics",
+        "type":"Earphones",
+        "brand":"Xiaomi",
+        "latest":true,
+        "name":"Mi Basic Wired Headset with Mic",
+        "imgUrl":"https://rukminim1.flixcart.com/image/416/416/jklgxow0/headphone/j/u/z/mi-ydjc01jy-original-imaf7x2czjesqugz.jpeg?q=70",
+        "price":"₹399",
+        "colour":"black",
+        "description":"Silicone Earbuds, 90 Degree L Shaped Phone Connector, Contains Volume Control and Mic Button, Wired Remote"
+    },
+
+    {
+        "id":"52",
+        "category":"Electronics",
+        "type":"Earphones",
+        "brand":"Xiaomi",
+        "latest":true,
+        "name":"Mi Basic Wired Headset with Mic",
+        "imgUrl":"https://rukminim1.flixcart.com/image/416/416/jklgxow0/headphone/t/k/k/mi-ydjc01jy-original-imaf7x2ckna7hbym.jpeg?q=70",
+        "price":"₹399",
+        "colour":"Red",
+        "description":"Silicone Earbuds, Tangle Free Cable, Aluminum Alloy Sound Chamber"
+    },
+    {
+        "id":"53",
+        "category":"Electronics",
+        "type":"Earphones",
+        "brand":"Boat",
+        "latest":true,
+        "name":"boAt Bassheads 242 Wired Headset",
+        "imgUrl":"https://rukminim1.flixcart.com/image/352/352/k0vbgy80pkrrdj/headphone/w/y/z/boat-bassheads-242-original-imafhbjuwkzr9tzg.jpeg?q=70",
+        "price":"₹549",
+        "colour":"Active Black",
+        "description":"It carries ear hooks that are crafted from silicon to maximize comfort and a secure fit that allows you to maximize your workouts."
+    },
+    {
+        "id":"54",
+        "category":"Electronics",
+        "type":"Earphones",
+        "brand":"Boat",
+        "latest":true,
+        "name":"boAt Rockerz 255F Bluetooth Headset ",
+        "imgUrl":"https://rukminim1.flixcart.com/image/352/352/k0vbgy80pkrrdj/headphone/s/6/c/boat-rockerz-255f-original-imafg96f2zubvfsn.jpeg?q=70",
+        "price":"₹1499",
+        "colour":"Neon",
+        "description":"This headset provides inline controls to help you skip tracks, adjust the volume, and even take calls."
+    },
+    {
+        "id":"55",
+        "category":"Electronics",
+        "type":"Earphones",
+        "brand":"Boat",
+        "latest":true,
+        "name":"boAt Bassheads 103 Blue Wired Headset ",
+        "imgUrl":"https://rukminim1.flixcart.com/image/352/352/jzn0tjk0/headphone/n/6/a/boat-bassheads-103-blue-original-imafjm236xnhke5e.jpeg?q=70",
+        "price":"₹399",
+        "colour":"Blue",
+        "description":"A carefully crafted design with casual elegance in abundance, choose your color that sets your vibe and begin the journey to the shores of Nirvana."
+    },
+    {
+        "id":"56",
+        "category":"Electronics",
+        "type":"Earphones",
+        "brand":"Boat",
+        "latest":false,
+        "name":"boAt BassHeads 100 Wired Headset",
+        "imgUrl":"https://rukminim1.flixcart.com/image/352/352/k51cpe80pkrrdj/headphone-refurbished/c/t/8/c-bassheads-100-boat-original-imafn4qttzkvzeyq.jpeg?q=70",
+        "price":"₹399",
+        "colour":"Furious Red",
+        "description":"One button universal remote to answer and manage your calls"
+    },
+    {
+        "id":"57",
+        "category":"Electronics",
+        "type":"Earphones",
+        "brand":"JBL",
+        "latest":false,
+        "name":"Infinity (JBL) Glide N120 Neckband with Metal Earbuds with BT 5.0 and IPX5 Bluetooth Headset",
+        "imgUrl":"https://rukminim1.flixcart.com/image/352/352/k6s82vk0/headphone/x/a/h/infinity-glide-n120-original-imafp63tfcwzyeyq.jpeg?q=70",
+        "price":"₹1499",
+        "colour":"Black/Red",
+        "description":"Boasting a sturdy neckband and an 85-mAh, 3.7-V polymer battery, this headset is comfortable to wear and it offers a battery backup of up to seven hours on a single full charge, so you can groove to killer tracks without any hassle for hours on end."
+    },
+    {
+        "id":"58",
+        "category":"Electronics",
+        "type":"Earphones",
+        "brand":"Samsung",
+        "latest":false,
+        "name":"Samsung Level U Bluetooth Headset",
+        "imgUrl":"https://rukminim1.flixcart.com/image/352/352/k6jnfrk0/headphone/b/a/j/samsung-level-u-original-imafzz9gmxu4cpg2.jpeg?q=70",
+        "price":"₹2480",
+        "colour":"Grey",
+        "description":"1 Earphone, 3 Set of Ear Tips (S, M, L), Charging Cable, Pouch"
+    },
+    {
+        "id":"59",
+        "category":"Electronics",
+        "type":"Earphones",
+        "brand":"Boult",
+        "latest":false,
+        "name":"Boult Audio Loupe Wired Headset",
+        "imgUrl":"https://rukminim1.flixcart.com/image/352/352/k2xmd8w0/headphone/x/h/z/boult-audio-curve-wireless-neckband-magnetic-earphone-with-mic-original-imafht34m3ywqbpt.jpeg?q=70",
+        "price":"₹1499",
+        "colour":"Red Black",
+        "description":" This personal audio device features high-fidelity HD Sound, an Adjustable Cable Fastener, and a stunning Metallic Design for an immersive and convenient musical experience."
+        
+    },
+    {
+        "id":"60",
+        "category":"Electronics",
+        "type":"Earphones",
+        "brand":"JBL",
+        "latest":false,
+        "name":"JBL T160 Wired Headset",
+        "imgUrl":"https://rukminim1.flixcart.com/image/352/352/k3ncakw0pkrrdj/headphone/2/h/t/jbl-t160-original-imafhyzxextr2g3r.jpeg?q=70",
+        "price":"₹699",
+        "colour":"Black",
+        "description":"This headset delivers bass that is deep and powerful, comes with a one-button remote that helps you have hearty conversations, thanks to the built-in microphone and also control your music"
+    }
+]

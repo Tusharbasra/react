@@ -1,0 +1,186 @@
+[    {
+    "id":40,
+    "category":"Fruits & Vegetables",
+    "latest":false,
+    "type":"Root Vegetables",
+    "name":"Carrot-local",
+    "imgUrl":"https://www.bigbasket.com/media/uploads/p/l/10000071_14-fresho-carrot-local.jpg",
+    "weight":"250g",
+    "price":"₹8",
+    "brand":"Fresho",
+    "about":"A popular sweet-tasting root vegetable, Carrots are narrow and cone shaped. They have thick, fleshy, deeply colored root, which grows underground, and feathery green leaves that emerge above the ground. While these greens are fresh tasting and slightly bitter, the carrot roots are crunchy textured with a sweet and minty aromatic taste. Fresho brings you the flavour and richness of the finest crispy and juicy carrots that are locally grown and the best of the region. ",
+    "benefits":"Carrots provide the highest content of vitamin A of all the vegetables. Brightly orange colored carrots have pigments like carotenoids and flavonoids, that provide several antioxidants and act as a defense against cancer. "
+
+
+
+},
+
+{
+    "id":41,
+    "category":"Fruits & Vegetables",
+    "latest":false,
+    "type":"Root Vegetables",
+    "name":"Fresho beetroot",
+    "imgUrl":"https://www.bigbasket.com/media/uploads/p/l/10000047-4_2-fresho-beetroot.jpg",
+    "weight":"250g",
+    "price":"₹8",
+    "brand":"Fresho",
+    "about":"These edible ruby red roots are smooth and bulbous and have the highest sugar content than any other vegetable. ",
+    "benefits":"Red beets lower blood pressure, promotes brain and heart health. It fights inflammation and boosts energy levels."
+
+
+},
+
+{
+    "id":42,
+    "category":"Fruits & Vegetables",
+    "latest":false,
+    "type":"Fresh fruits",
+    "name":"Banana Yelakki ",
+    "imgUrl":"https://www.bigbasket.com/media/uploads/p/l/10000031-2_3-fresho-banana-yelakki.jpg",
+    "weight":"1Kg",
+    "price":"₹59",
+    "brand":"Fresho",
+    "about":"Tiny and small sized, this variety is called Yelakki in Bangalore and Elaichi in Mumbai. Despite its small size, they are naturally flavoured, aromatic and sweeter compared to regular bananas. Yelakki bananas are around 3- 4 inches long and contain a thinner skin and better shelf life than Robusta bananas. ",
+    "benefits":"One banana supplies 30 percent of the daily vitamin B6 requirement and is rich in vitamin C and potassium. It reduces appetite and promotes weight loss, while also boosting the immune system and keeping the bones strong. It is very good for pregnant women and athletes."
+
+
+},
+
+{
+
+        "id":43,
+        "category":"Fruits & Vegetables",
+        "latest":false,
+        "type":"Citrus fruits",
+        "name":"Orange-imported ",
+        "imgUrl":"https://www.bigbasket.com/media/uploads/p/l/20000910-2_4-fresho-orange-imported.jpg",
+        "quantity":"6 pieces",
+        "price":"₹135",
+        "brand":"Fresho",
+        "about":"Navel oranges are very sugary and juicy and considered to be the world's finest orange for fresh consumption because they are very sweet, naturally juice, seedless and peels and segments very easily. It has a variety of phytochemicals containing flavanoids hesperetin, beta-carotene and carotenoids alpha etc. It is wealthy in Vitamin C, A and Folate and includes small amounts of Vitamin E & B complex vitamins too.  ",
+        "benefits":"It is rich in Antioxidants which protects the skin from free radicals and also protects against some cancers by suppressing cancer cell proliferation. It is good for asthma patients and orange juice added in the face packs give a new life to the skin by removing the dead cells."
+    
+    
+    
+},
+
+{
+
+    "id":44,
+    "category":"Cleaning & Household",
+    "latest":false,
+    "type":"Scrub pad",
+    "name":"Scotch brite Scrub Sponge Large ",
+    "imgUrl":"https://www.bigbasket.com/media/uploads/p/l/40008477_8-scotch-brite-scrub-sponge-large.jpg",
+    "quantity":"1 piece",
+    "price":"₹35",
+    "brand":"Scotch Brite",
+    "about":"Scotch-Brite Scrub Sponge is designed with a superior quality sponge backing which helps it to Stay Firm for a longer time. A Perfect tool with both scrub pad & sponge on either side that helps you to wash utensils very easily. ",
+    "benefits":"Easy dishwashing."
+},
+
+{
+
+
+    "id":45,
+    "category":"Cleaning & Household",
+    "latest":false,
+    "type":"Dust Pan",
+    "name":"Gala Dustpan ",
+    "imgUrl":"https://www.bigbasket.com/media/uploads/p/xxl/228409_4-gala-dustpan.jpg",
+    "quantity":"1 piece",
+    "price":"₹65",
+    "brand":"Gala",
+    "about":"This dust pan is used for catching dust and debris. The hole in the handle allows the dustpan to hang up conveniently. It requires lesser space and the light-weight feature makes it easy to carry and clean.",
+    "benefits":"Made from Virgin plastic"
+
+
+},
+
+{
+
+
+    "id":46,
+    "category":"Kitchen & Accesories",
+    "latest":false,
+    "type":"Kitchen tools",
+    "name":"Anjali Stainless Steel Cutlery - Spoon Stand, Square.",
+    "imgUrl":"https://www.bigbasket.com/media/uploads/p/xxl/40162917_1-anjali-stainless-steel-cutlery-spoon-stand-square.jpg",
+    "quantity":"1 piece",
+    "price":"₹119",
+    "brand":"Anjali",
+    "about":"Made from good quality stainless steel. Due to the wire type design, it can also be used as a whisk. Ideal for keeping all your Cutlery items at one place. Ideal for keeping all your spoons and forks at one place. It brings a sense of orderliness in the kitchen. Pick the spoons from the stand with ease. It makes it accessible for everyone instead of having to search for your spoons and forks.",
+    "benefits":"It can hold maximum weight capacity."
+
+
+},
+{
+
+
+    "id":47,
+    "category":"Beauty & Hygiene",
+    "latest":false,
+    "type":"Skin care",
+    "name":"Himalaya Purifying Neem Face Wash",
+    "imgUrl":"https://www.bigbasket.com/media/uploads/p/l/100134697_1-himalaya-purifying-neem-face-wash.jpg",
+    "quantity":"150 ml",
+    "price":"₹152.90",
+    "brand":"Himalaya",
+    "about":"Himalaya Purifying Neem Face Wash is a soap-free, herbal formulation that cleans impurities and helps clear pimples. It improves general skin health and immunity, combating bacterial infections such as acne, boils, and ulcers. ",
+    "benefits":"It keeps skin rejuvenated and healthy."
+
+},
+{
+
+
+    "id":48,
+    "category":"Beauty & Hygiene",
+    "latest":true,
+    "type":"Body care",
+    "name":"Nivea Body Lotion - Shea Smooth Milk, For Dry Skin",
+    "imgUrl":"https://www.bigbasket.com/media/uploads/p/l/272883-5_1-nivea-body-lotion-shea-smooth-milk-for-dry-skin.jpg",
+    "quantity":"400 ml",
+    "price":"₹307.50",
+    "brand":"Nivea",
+    "about":"Nivea Smooth Milk Body Lotion works deep within the skin repairing dryness layer by layer to give you long-lasting softness and protection. Enriched with deep moisturising ingredients, the body lotion provides long-lasting smoothness too. The creamy and smooth 24-hour intensive moisturiser is specially developed to meet the needs of dry skin. ",
+    "benefits":"It helps maintain smooth skin and nourish"
+
+},
+
+{
+
+
+    "id":49,
+    "category":"Oils",
+    "latest":true,
+    "type":"Olive oil",
+    "name":"Borges-Olive oil",
+    "imgUrl":"https://www.bigbasket.com/media/uploads/p/l/40007265_3-borges-olive-oil-extra-light.jpg",
+    "quantity":"2L",
+    "price":"₹1249",
+    "brand":"Borges",
+    "about":"Borges Light Flavour Olive Oil has a very soft taste allowing the flavours of other ingredients to come during. It is perfect for frying and baking, and respected by cooks who desire the healthy benefits of olive oil but not a different olive taste.",
+    "benefits":"It is cholestrol free and prevents from heart diseases."
+},
+
+
+{ 
+
+    "id":50,
+    "category":"Kitchen accesories",
+    "latest":true,
+    "type":"Glassware",
+    "name":"Cello Glass-Sodalime Tumbler - Octave",
+    "imgUrl":"https://www.bigbasket.com/media/uploads/p/l/40136599_1-cello-glass-sodalime-tumbler-octave.jpg",
+    "quantity":"300ml, Set of 6",
+    "price":"₹475",
+    "brand":"Cello",
+    "about":"Designed to please the most discerning eye, these glasses live up to the name they elegantly carry. This special range of tumblers will pleasantly surprise you with the hint of colour and minimal design pattern will refrain from jarring your aesthetics.",
+    "benefits":"Hold good quantity and strong."
+}
+
+
+
+
+]
